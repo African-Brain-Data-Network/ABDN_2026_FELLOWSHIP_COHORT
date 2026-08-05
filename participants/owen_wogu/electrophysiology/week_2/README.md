@@ -11,15 +11,16 @@ like EEG, making them more accurate and useful for both research and
 clinical applications. That possibility is what makes these recording 
 methods the most exciting to me.
 
-What is your preferred recording technique? And why?
+If you could design any experiment, what would you do?
 
-My preferred recording techniques are intracellular recordings and multi-unit
-recording methods such as tetrodes, silicon probes, Neuropixels, and 
-multi-electrode arrays. What attracts me to these techniques is the 
-level of detail they can provide compared to conventional EEG. Although 
-they are more invasive, they allow researchers to record neural activity with
-much greater precision, making it possible to study brain activity at a much finer 
-level. As someone interested in neuroengineering, I find it exciting that these 
-techniques can reveal information that may not be easily detected with scalp 
-EEG, and I hope to learn more about how they can complement non-invasive methods in 
-the future.
+If I could design any experiment, I would like to investigate whether 
+more precise recordings, such as those obtained from multi-electrode 
+arrays or similar techniques, could be used to improve the interpretation 
+of EEG signals. My idea is to record both types of signals at the same 
+time and use the more detailed recordings as a reference to better 
+understand the patterns seen in EEG. I wonder whether this kind of 
+"reverse calibration" could help identify clearer signal features and 
+improve the accuracy of EEG analysis. I know this is still just an idea 
+and would require a lot more study, but it is a question that has stayed 
+with me since our first lecture and is something I would love to explore 
+in the future.
