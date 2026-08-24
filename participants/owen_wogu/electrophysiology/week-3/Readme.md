@@ -1,3 +1,7 @@
+ABDN - ELECTROPHYSIOLOGY WEEK 3 ASSIGNMENT 
+
+TASK 2
+
 Pesaran et al. (2018) review how field potential recordings such as EEG, ECoG, and LFP can contain information about neural 
 activity across different spatial and temporal scales, while emphasizing the importance of forward and inverse models for 
 interpreting these signals. I consider the paper trustworthy because it is a peer-reviewed methodological review by researchers 
@@ -21,3 +25,13 @@ The review emphasizes that scalp EEG represents spatially averaged activity from
 localization has inherent limitations because multiple source configurations can produce similar measurements. I consider the paper trustworthy
 because it is a tutorial review grounded in established biophysical principles and, rather than overstating the certainty of EEG source localization, 
 clearly discusses its limitations
+
+TASK 3 
+
+The Connected Papers graph shows that Kang et al. (2017) is connected to earlier and later research on EEG, LFP, cortical electrophysiology, 
+and the relationship between surface and local neural signals. The network places the study within a broader field investigating how neural 
+signals recorded at different spatial scales relate to underlying cortical activity.
+
+The graph revealed related papers that I did not identify during my initial keyword searches, particularly studies involving biophysical modeling, 
+current-source density analysis, and laminar electrophysiology. This showed me that papers can be connected through shared methods and concepts 
+even when they do not use the exact search terms I initially used.
